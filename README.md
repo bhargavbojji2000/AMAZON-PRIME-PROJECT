@@ -2,6 +2,8 @@
 Welcome to your Amazon Prime dashboard, where entertainment meets convenience. Dive into a world of endless possibilities with our vast collection of movies and TV shows tailored just for you.
 This dashboard is based on Movie and TV Shows in Amazon Prime
 
+![Screenshot (1)](https://github.com/bhargavbojji2000/data-analytics/assets/167870422/db001226-39ff-40ed-b15a-bf260d81ab1d)
+
 - Then dataset is loaded into microsoft powerbi and made data transformation according to the needed analysis.
     - The data for this dashboard is taken from kaggle dataset.
 
