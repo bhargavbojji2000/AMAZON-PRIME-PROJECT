@@ -12,6 +12,10 @@ This dashboard is based on Movie and TV Shows in Amazon Prime
 
 - Plan your watchlist, track your viewing progress, and never miss a beat with our intuitive dashboard. With features designed to enhance your viewing experience, finding your next binge-worthy obsession has never been easier.
 -  Sit back, relax, and let the entertainment come to you. Your Amazon Prime dashboard awaits, ready to transport you to worlds beyond your imagination.
+
+![image-placeholder-title](https://github.com/bhargavbojji2000/data-analytics/assets/167870422/b72fa795-b165-49c2-84ef-15cc6a91ca99)
+
+
 -  - Amazon Studios, the original content production arm of Amazon Prime, spearheads many of these projects. With a focus on nurturing creativity and fostering unique voices, Amazon Studios has become a powerhouse in the entertainment industry, earning critical acclaim and audience praise for its compelling content.
 - Exclusive content on Amazon Prime is like discovering a hidden treasure trove, filled with captivating stories and groundbreaking productions you won't find anywhere else. From gripping original series that push the boundaries of storytelling to blockbuster movies that leave audiences spellbound, our exclusive lineup is a testament to creativity, innovation, and the power of entertainment to inspire and delight. With exclusive content on Amazon Prime, every viewing experience is an adventure waiting to be explored, promising excitement, intrigue, and endless possibilities.
 - Amazon Prime extend beyond traditional film and television to include other forms of media, such as documentaries, stand-up comedy specials, and live events. This diverse range of content ensures that there's something for everyone on the platform, catering to a wide variety of tastes and interests.
