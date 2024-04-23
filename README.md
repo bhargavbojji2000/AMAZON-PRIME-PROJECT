@@ -1,7 +1,5 @@
 # AMAZON PRIME PROJECT
 
-![Prime video logo](https://github.com/bhargavbojji2000/data-analytics/assets/167870422/e5c98f42-db8c-44ed-ac51-3d5fd4aff242)
-
 Welcome to your Amazon Prime dashboard, where entertainment meets convenience. Dive into a world of endless possibilities with our vast collection of movies and TV shows tailored just for you.
 This dashboard is based on Movie and TV Shows in Amazon Prime
 
@@ -23,6 +21,8 @@ This dashboard is based on Movie and TV Shows in Amazon Prime
 - Exclusive content on Amazon Prime is like discovering a hidden treasure trove, filled with captivating stories and groundbreaking productions you won't find anywhere else. From gripping original series that push the boundaries of storytelling to blockbuster movies that leave audiences spellbound, our exclusive lineup is a testament to creativity, innovation, and the power of entertainment to inspire and delight. With exclusive content on Amazon Prime, every viewing experience is an adventure waiting to be explored, promising excitement, intrigue, and endless possibilities.
 - Amazon Prime extend beyond traditional film and television to include other forms of media, such as documentaries, stand-up comedy specials, and live events. This diverse range of content ensures that there's something for everyone on the platform, catering to a wide variety of tastes and interests.
 - Amazon Prime often leverage cutting-edge technology and innovative storytelling techniques to create immersive viewing experiences. Whether it's through high-quality cinematography, groundbreaking visual effects, or interactive storytelling elements, these projects push the boundaries of what's possible in the world of entertainment.
+
+- ![Prime video logo](https://github.com/bhargavbojji2000/data-analytics/assets/167870422/e5c98f42-db8c-44ed-ac51-3d5fd4aff242)
 
 - - The increase in Amazon Prime subscriptions speaks volumes about the platform's undeniable appeal and value proposition. As more and more people recognize the convenience, variety, and quality that Amazon Prime offers, they're eager to join the millions of subscribers worldwide who enjoy exclusive benefits and access to a wealth of entertainment.
 - One of the driving factors behind the increase in Amazon Prime subscriptions is the ever-expanding library of content available to members. With a diverse selection of movies, TV shows, and original series, there's something for every viewer, whether they're in the mood for a blockbuster hit or a hidden gem.
