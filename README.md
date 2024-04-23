@@ -1,3 +1,5 @@
+![Prime video logo](https://github.com/bhargavbojji2000/data-analytics/assets/167870422/e5c98f42-db8c-44ed-ac51-3d5fd4aff242)
+
 # AMAZON PRIME PROJECT
 Welcome to your Amazon Prime dashboard, where entertainment meets convenience. Dive into a world of endless possibilities with our vast collection of movies and TV shows tailored just for you.
 This dashboard is based on Movie and TV Shows in Amazon Prime
