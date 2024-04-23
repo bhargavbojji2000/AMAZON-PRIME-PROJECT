@@ -13,7 +13,7 @@ This dashboard is based on Movie and TV Shows in Amazon Prime
 - Plan your watchlist, track your viewing progress, and never miss a beat with our intuitive dashboard. With features designed to enhance your viewing experience, finding your next binge-worthy obsession has never been easier.
 -  Sit back, relax, and let the entertainment come to you. Your Amazon Prime dashboard awaits, ready to transport you to worlds beyond your imagination.
 
-![image-placeholder-title](https://github.com/bhargavbojji2000/data-analytics/assets/167870422/b72fa795-b165-49c2-84ef-15cc6a91ca99)
+![image](https://github.com/bhargavbojji2000/data-analytics/assets/167870422/b0cdd5a9-386b-477f-b8dc-3797bea5f715)
 
 
 -  - Amazon Studios, the original content production arm of Amazon Prime, spearheads many of these projects. With a focus on nurturing creativity and fostering unique voices, Amazon Studios has become a powerhouse in the entertainment industry, earning critical acclaim and audience praise for its compelling content.
@@ -27,6 +27,8 @@ This dashboard is based on Movie and TV Shows in Amazon Prime
 - Furthermore, Amazon's commitment to innovation and customer satisfaction plays a significant role in driving subscription growth. Constantly evolving features such as personalized recommendations, seamless streaming across devices, and interactive viewing experiences keep subscribers engaged and coming back for more.
 - Ultimately, the increase in Amazon Prime subscriptions reflects a growing recognition of the platform as an indispensable part of modern life. With its unbeatable combination of convenience, variety, and value, Amazon Prime continues to attract new subscribers and delight existing members, solidifying its position as a leader in the world of entertainment and e-commerce.
 
+- ![18611](https://github.com/bhargavbojji2000/data-analytics/assets/167870422/9116b420-a4bd-4781-ae2a-dff72ed1e3dd)
+
 - Amazon Prime offers a treasure trove of top-notch shows tailored to audiences around the globe, showcasing the diverse cultures, stories, and talents of each country. From gripping dramas to uproarious comedies, here's a glimpse into some of the top shows by country:
 
 1. **United States:** Dive into the heart of American storytelling with acclaimed series like "The Marvelous Mrs. Maisel," a delightful comedy-drama set in 1950s New York City, or "The Boys," a gritty superhero satire that pushes the boundaries of the genre.
@@ -37,6 +39,9 @@ This dashboard is based on Movie and TV Shows in Amazon Prime
 6. **Brazil:** Discover the dynamic storytelling of Brazilian television with standout series like "Sintonia," a gritty coming-of-age drama set in São Paulo's favelas, or "All or Nothing: Brazil National Team," a riveting sports documentary that offers unprecedented access to the inner workings of Brazil's national soccer team.
 
 No matter where you are in the world, Amazon Prime brings the best of global entertainment right to your fingertips, offering a diverse array of top shows that captivate, inspire, and entertain audiences of all backgrounds.
+
+![image-placeholder-title](https://github.com/bhargavbojji2000/data-analytics/assets/167870422/1c92ac0b-8b45-4d05-8139-be9023d63a72)
+
 
 Amazon's service subscription revenue is a testament to the company's ability to innovate and meet the evolving needs of its customers. Through a variety of subscription-based services, Amazon has created a robust ecosystem that offers convenience, value, and a seamless experience for users.
 
