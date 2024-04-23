@@ -2,8 +2,6 @@
 Welcome to your Amazon Prime dashboard, where entertainment meets convenience. Dive into a world of endless possibilities with our vast collection of movies and TV shows tailored just for you.
 This dashboard is based on Movie and TV Shows in Amazon Prime
 
-![Screenshot (1).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0a4ea56b-e0f5-47ac-98b5-ea2fe78f8a09/e7ce2e5e-da41-4d12-b6a6-d50b25b5a9eb/Screenshot_(1).png)
-
 - Then dataset is loaded into microsoft powerbi and made data transformation according to the needed analysis.
     - The data for this dashboard is taken from kaggle dataset.
 
@@ -16,16 +14,12 @@ This dashboard is based on Movie and TV Shows in Amazon Prime
 - Exclusive content on Amazon Prime is like discovering a hidden treasure trove, filled with captivating stories and groundbreaking productions you won't find anywhere else. From gripping original series that push the boundaries of storytelling to blockbuster movies that leave audiences spellbound, our exclusive lineup is a testament to creativity, innovation, and the power of entertainment to inspire and delight. With exclusive content on Amazon Prime, every viewing experience is an adventure waiting to be explored, promising excitement, intrigue, and endless possibilities.
 - Amazon Prime extend beyond traditional film and television to include other forms of media, such as documentaries, stand-up comedy specials, and live events. This diverse range of content ensures that there's something for everyone on the platform, catering to a wide variety of tastes and interests.
 - Amazon Prime often leverage cutting-edge technology and innovative storytelling techniques to create immersive viewing experiences. Whether it's through high-quality cinematography, groundbreaking visual effects, or interactive storytelling elements, these projects push the boundaries of what's possible in the world of entertainment.
-- 
-- [im-479799.avif](https://prod-files-secure.s3.us-west-2.amazonaws.com/0a4ea56b-e0f5-47ac-98b5-ea2fe78f8a09/55a3efb3-4553-40d4-964e-14941e2e7a8a/im-479799.avif)
 
 - - The increase in Amazon Prime subscriptions speaks volumes about the platform's undeniable appeal and value proposition. As more and more people recognize the convenience, variety, and quality that Amazon Prime offers, they're eager to join the millions of subscribers worldwide who enjoy exclusive benefits and access to a wealth of entertainment.
 - One of the driving factors behind the increase in Amazon Prime subscriptions is the ever-expanding library of content available to members. With a diverse selection of movies, TV shows, and original series, there's something for every viewer, whether they're in the mood for a blockbuster hit or a hidden gem.
 - Additionally, the convenience of Amazon Prime's all-in-one membership cannot be overstated. In addition to entertainment, subscribers gain access to a host of other perks, including free two-day shipping on eligible items, unlimited photo storage, exclusive deals and discounts, and more. This comprehensive package makes Amazon Prime a must-have for anyone looking to simplify their shopping, save money, and streamline their entertainment experience.
 - Furthermore, Amazon's commitment to innovation and customer satisfaction plays a significant role in driving subscription growth. Constantly evolving features such as personalized recommendations, seamless streaming across devices, and interactive viewing experiences keep subscribers engaged and coming back for more.
 - Ultimately, the increase in Amazon Prime subscriptions reflects a growing recognition of the platform as an indispensable part of modern life. With its unbeatable combination of convenience, variety, and value, Amazon Prime continues to attract new subscribers and delight existing members, solidifying its position as a leader in the world of entertainment and e-commerce.
-
-- ![5e1f31e4f4423124c8029354.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/0a4ea56b-e0f5-47ac-98b5-ea2fe78f8a09/2773393b-07e9-4c7c-a3fc-a82f0b4ccb79/5e1f31e4f4423124c8029354.webp)
 
 - Amazon Prime offers a treasure trove of top-notch shows tailored to audiences around the globe, showcasing the diverse cultures, stories, and talents of each country. From gripping dramas to uproarious comedies, here's a glimpse into some of the top shows by country:
 
@@ -37,8 +31,6 @@ This dashboard is based on Movie and TV Shows in Amazon Prime
 6. **Brazil:** Discover the dynamic storytelling of Brazilian television with standout series like "Sintonia," a gritty coming-of-age drama set in São Paulo's favelas, or "All or Nothing: Brazil National Team," a riveting sports documentary that offers unprecedented access to the inner workings of Brazil's national soccer team.
 
 No matter where you are in the world, Amazon Prime brings the best of global entertainment right to your fingertips, offering a diverse array of top shows that captivate, inspire, and entertain audiences of all backgrounds.
-
-![image-placeholder-title.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0a4ea56b-e0f5-47ac-98b5-ea2fe78f8a09/ebb40165-8f01-41d8-a58f-fa9203cac06d/image-placeholder-title.png)
 
 Amazon's service subscription revenue is a testament to the company's ability to innovate and meet the evolving needs of its customers. Through a variety of subscription-based services, Amazon has created a robust ecosystem that offers convenience, value, and a seamless experience for users.
 
